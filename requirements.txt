@@ -1,0 +1,4 @@
+PyQt6==6.5.*
+feedparser==6.0.*
+nltk==3.8.*
+pandas==2.0.*
